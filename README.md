@@ -19,5 +19,5 @@ This interface allows the user to connect his/her particular metamask to the app
 ![image](https://user-images.githubusercontent.com/94790950/228597626-35480e63-d20e-4fa5-abd1-008714e31024.png)
 
 
-### So many of you guys might go through some of the errors and please do raise issues on the github and your contributions will be highly appreciated as this was my first learning experience i have some guys to thanks for being an excellent tutor. [@dikshasonics2000](https://www.github.com/dikshasonics2000)
+### So many of you guys might go through some of the errors and please do raise issues on the github and your contributions will be highly appreciated as this was my first learning experience I have someone to thank for being an excellent tutor. [@dikshasonics2000](https://www.github.com/dikshasonics2000)
 # Thank you for reading, peace out!
